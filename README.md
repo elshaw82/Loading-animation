@@ -1,2 +1,3 @@
-# Loading animation 
- Loading animation with JS and CSS
+# Loading animation
+
+Loading animation with CSS
